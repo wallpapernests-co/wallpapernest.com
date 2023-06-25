@@ -1,0 +1,141 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the navigation bar */
+nav {
+    background-color: #f2f2f2;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+}
+
+nav ul li a:hover {
+    background-color: #333;
+    color: #f2f2f2;
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the navigation bar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.navbar-logo a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.navbar-menu ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar-menu ul li {
+    margin-left: 10px;
+}
+
+.navbar-menu ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.navbar-toggle button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+    font-size: 16px;
+}
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the navigation bar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.navbar-logo a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.navbar-menu ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar-menu ul li {
+    margin-left: 10px;
+}
+
+.navbar-menu ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.navbar-toggle button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+    font-size: 16px;
+}
+/* Set font family and size for the entire website */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: "ITALIC", ITALIC, ITALIC;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+p {
+    font-family: ITALIC, ITALIC;
+    font-size: 18px;
+}
+
+a {
+    font-family: "ITALIC", ITALIC;
+    font-size: 16px;
+    text-decoration: none;
+    color: #333;
+}
+
